@@ -1,7 +1,5 @@
 # DataLemur SQL Solutions
 
-Welcome to my **DataLemur SQL Solutions** repository!
-
 This file will be used to keep track of all my solutions to SQL questions from DataLemur.  
 It serves as a reference for my learning journey, allowing me to revisit past problems, track my progress, and continuously improve my SQL skills through practice.
 
