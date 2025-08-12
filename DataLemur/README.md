@@ -9,8 +9,13 @@ It serves as a reference for my learning journey, allowing me to revisit past pr
 
 | Number | Question | Solution |
 |--------|----------|----------|
-| 1 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [View](solutions/example_question.sql) |
-| 2 | [Example Question Title](https://datalemur.com/questions/example2) | [View](solutions/example_question2.sql) |
-| 3 | [Example Question Title](https://datalemur.com/questions/example3) | [View](solutions/example_question3.sql) |
+| 1 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [View](DataLemur/Easy/01_Histogram_of_Tweets.sql) |
+| 2 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [View](solutions/example_question.sql) |
+| 3 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [View]() |
+|  | []() | [View]() |
+|  | []() | [View]() |
+|  | []() | [View]() |
+|  | []() | [View]() |
+|  | []() | [View]() |
 
 ---
