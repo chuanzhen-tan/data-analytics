@@ -12,4 +12,4 @@ SELECT
   COUNT(*) AS users_num
 FROM tweet_counts
 GROUP BY tweet_bucket
-ORDER BY tweet_bucket
+ORDER BY tweet_bucket;
