@@ -15,6 +15,10 @@ It serves as a reference for my learning journey, allowing me to revisit past pr
 | 3 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/03_Page_With_No_Likes.sql) |
 | 4 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/04_Unfinished_Parts.sql) |
 | 5 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/05_Laptop_vs_Mobile_Viewership.sql) |
+| 6 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/06_Average_Post%20_Hiatus%20_(Part%201).sql) |
+| 7 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/07_Teams_Power%20_Users.sql) |
+| 8 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/08_Duplicate_Job_Listings.sql) |
+|  | []() | [View]() |
 |  | []() | [View]() |
 
 ## 📂 Solutions (Medium)
