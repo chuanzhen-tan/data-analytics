@@ -6,7 +6,7 @@ It serves as a reference for my learning journey, allowing me to revisit past pr
 
 ---
 
-## 📂 Solutions
+## 📂 Solutions (Easy)
 
 | Number | Question | Solution |
 |:------:|----------|:--------:|
@@ -15,6 +15,18 @@ It serves as a reference for my learning journey, allowing me to revisit past pr
 | 3 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/03_Page_With_No_Likes.sql) |
 | 4 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/04_Unfinished_Parts.sql) |
 | 5 | [Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [View](https://github.com/chuanzhen-tan/data-analytics/blob/main/DataLemur/Easy/05_Laptop_vs_Mobile_Viewership.sql) |
+|  | []() | [View]() |
+
+## 📂 Solutions (Medium)
+
+| Number | Question | Solution |
+|:------:|----------|:--------:|
+|  | []() | [View]() |
+
+## 📂 Solutions (Hard)
+
+| Number | Question | Solution |
+|:------:|----------|:--------:|
 |  | []() | [View]() |
 
 ---
