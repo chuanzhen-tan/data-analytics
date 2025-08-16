@@ -1,8 +1,8 @@
-### Entity Relationship Diagram
+## Entity Relationship Diagram
 
 <img src="https://github.com/user-attachments/assets/20c14550-cc0e-4758-a667-6cdc8e0f247d" alt="image" width="600"/>
 
-### Table 1: Sales
+## Table 1: Sales
 The `sales` table records customer purchases, including the order date and the product ID of each item bought.
 
 | customer_id | order_date | product_id |
@@ -25,7 +25,7 @@ The `sales` table records customer purchases, including the order date and the p
 
 ---
 
-### Table 2: Menu
+## Table 2: Menu
 The `menu` table lists each product ID along with its name and price.
 
 | product_id | product_name | price |
@@ -36,7 +36,7 @@ The `menu` table lists each product ID along with its name and price.
 
 ---
 
-### Table 3: Members
+## Table 3: Members
 The `members` table tracks the join date for customers who signed up for the Danny’s Diner loyalty program.
 
 | customer_id | join_date  |
